@@ -1,5 +1,7 @@
 A plugin to kuboard cicd.
 
+See [kuboard cicd](https://kuboard.cn/guide/cicd/) and [kuboard swagger](https://demo.kuboard.cn/swagger/index.html).
+
 # Usage
 
 The following settings changes this plugin's behavior.
