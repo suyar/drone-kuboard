@@ -21,7 +21,7 @@ jobs:
       - name: Build and push
         uses: docker/build-push-action@v4
         with:
-          context: ./docker
+          file: ./docker/Dockerfile
           push: true
           tags: |
             suyar/drone-kuboard:latest
